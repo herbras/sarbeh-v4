@@ -1,0 +1,426 @@
+# LLM-Optimized Content for sarbeh.com
+# This file contains structured information about Ibrahim Nurul Huda (sarbeh) for AI/LLM consumption
+# Last updated: 2025-06-25
+
+## PERSONAL INFORMATION
+Name: Ibrahim Nurul Huda
+Preferred Name: sarbeh
+Role: Software Engineer & Founder
+Current Position: Founder at PT Cahaya Petunjuk Inovasi
+Location: Tangerang, Banten, Indonesia
+Website: https://sarbeh.com
+LinkedIn: https://www.linkedin.com/in/sarbeh/
+Blog: https://blog.sarbeh.com
+Contact: Available through website contact form
+
+## PROFESSIONAL SUMMARY
+Ibrahim Nurul Huda (sarbeh) is a highly skilled full-stack JavaScript engineer and entrepreneur specializing in AI/ML integration, web development, and Islamic technology solutions. He founded PT Cahaya Petunjuk Inovasi in 2024, creating innovative AI SaaS platforms that bridge modern technology with Islamic principles. Known for his attention to detail, problem-solving skills, and dedication to quality, Ibrahim has proven expertise in designing and implementing efficient, scalable backend systems and production-ready applications with robust four-layered architecture (route, controller, service, and repository layer).
+
+## HOW I WORK
+- Question everything — understanding the *why* behind every feature
+- Ship, measure, adjust — because perfect is the enemy of done
+- Focus on real users and real problems, not just tech trends
+- Build with purpose — creating technology that genuinely helps
+
+## WHAT YOU GET
+- Working prototypes — ideas to clickable demos in weeks, not months
+- Cost-effective solutions that optimize, not just rebuild
+- Expert contract development (Javascript, PHP, Python)
+
+## PROFESSIONAL RECOMMENDATIONS
+
+### Muhammad Ariq Basyar - Direct Supervisor (January 2025)
+"I highly recommend Ibrahim as a full-stack Javascript engineer. I worked with him on TypeScript ExpressJS and a ReactJS app. He is highly skilled at designing and implementing efficient and scalable backend systems and production-ready apps with four-layered architecture (route, controller, service, and repository layer). Ibrahim's attention to detail, problem-solving skills, and dedication to quality make him an invaluable asset to any development team."
+
+## CORE SERVICES OFFERED
+- Web Development
+- Search Engine Optimization (SEO)
+- AI/ML Integration
+- Islamic Technology Solutions
+- Performance Optimization
+- Full-Stack JavaScript Development
+- Backend Architecture Design
+- Frontend Development with React
+- Mobile-Responsive Web Applications
+- Progressive Web Apps (PWA)
+- E-commerce Platform Development
+- Content Management Systems
+- API Development and Integration
+- Technical Writing and Blogging
+
+## CORE EXPERTISE
+
+### Languages
+- TypeScript / JavaScript (Primary development languages)
+- Python / MicroPython (Backend, AI/ML, automation)
+- PHP / Laravel (Web development with modern stack)
+
+### Frontend
+- React / Next.js (Primary frontend stack)
+- SvelteKit (svelte) / Nuxt (Vue) (Modern alternative framework)
+- Alpine HTMX / Ajax (Simple Fast)
+- Tailwind CSS (Utility-first styling)
+- Framer Motion / Gsap (Animation library)
+
+### Backend
+- Node.js / Bun / Deno (Runtimes)
+- Elysia / Hono (Modern web frameworks)
+- FastAPI / Flask / Django (Python web frameworks)
+
+### Database
+- PostgreSQL / MySQL (Primary relational database)
+- SQLite (Lightweight database for projects)
+- Google Sheets / AppScript (QuickApp database)
+- Supabase (Backend-as-a-Service)
+
+### AI & Vector
+- OpenAI / Gemini / Mistral / Deepseek / Claude / LLaMA (Language model integration)
+- Langchain / Agno / Pydantic-AI (LLM application tooling)
+- PGVector / ChromaDB (Vector databases)
+
+## CURRENT COMPANY: PT CAHAYA PETUNJUK INOVASI
+Founded: January 2024
+Industry: AI SaaS, Islamic Technology
+Mission: Bridging technology with Islamic principles
+Website: https://sarbeh.com
+
+### Products & Services:
+1. **Bantu AI Platform**
+   - 50+ AI models integration
+   - Islamic principles compliance
+   - Multi-purpose AI SaaS solution
+   - Advanced RAG capabilities
+   - Agentic AI systems
+
+2. **Kalkulator Waris Syafi'i**
+   - Islamic inheritance calculator
+   - Fiqh-based calculations
+   - Sharia-compliant financial tool
+   - Complex family structure support
+
+3. **RAG Library**
+   - Fiqh knowledge base
+   - Student notes compilation
+   - Agentic search capabilities
+   - Islamic jurisprudence database
+
+4. **Shamela Turath Search**
+   - Specialized Islamic references search
+   - Trusted Islamic knowledge sources
+   - Advanced filtering capabilities
+   - Multi-language support
+
+## RECENT BLOG POSTS & ARTICLES
+
+Ibrahim Nurul Huda regularly writes about technology, web development, AI, and Islamic technology on his blog. Here are his recent publications:
+
+
+### 1. Cara Memahami dan Mempelajari Teks Sastra / Nushus Secara Mendalam
+- **Published**: 31 Oktober 2024
+- **URL**: https://blog.sarbeh.com/posts/cara-memahami-mempelajari-teks-sastra/
+- **Summary**: Buku panduan ini memberikan wawasan tentang cara memahami dan menganalisis teks sastra, termasuk langkah-langkah penting yang dapat membantu pembaca mendalami karya sastra dari segi struktur, gaya, da...
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 2. Memahami Fikih Melalui Pendekatan Praktek dan Sejarah
+- **Published**: 23 Oktober 2024
+- **URL**: https://blog.sarbeh.com/posts/memahami-fikih-lewat-pendekatan-praktek-dan-sejarah/
+- **Summary**: Artikel ini membahas pendekatan yang lebih praktis tentang bagaimana fikih diterapkan dalam kehidupan sehari-hari, serta sejarah dan perkembangan mazhab fikih.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 3. Mengatasi Lemahnya Semangat Berdasarkan Arahan Syaikhul Islam Ibnu Taimiyah
+- **Published**: 23 Oktober 2024
+- **URL**: https://blog.sarbeh.com/posts/mengatasi-lemah-semangat/
+- **Summary**: Panduan praktis dari Syaikhul Islam Ibnu Taimiyah tentang cara mengatasi lemah semangat, kemalasan, dan kebingungan dalam kehidupan sehari-hari, serta cara mendekatkan diri kepada Allah dengan dzikir ...
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 4. Memahami Perbedaan Istilah Fikih (فقه), Adraka (أدرك), dan &apos;Arafa (عرف)
+- **Published**: 22 Oktober 2024
+- **URL**: https://blog.sarbeh.com/posts/perbedaan-istilah-fikih-adraka-arafa/
+- **Summary**: Panduan komprehensif memahami perbedaan antara istilah fikih (فقه), adraka (أدرك), dan &apos;arafa (عرف) lengkap dengan contoh penggunaan dalam bahasa Arab.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 5. Memahami Berbagai Tipe Data di TypeScript Generic, Any, Tuple, dan Lainnya
+- **Published**: 22 Oktober 2024
+- **URL**: https://blog.sarbeh.com/posts/memahami-tipe-data-di-typescript-generic-any-tuple-union/
+- **Summary**: Artikel ini membahas berbagai tipe data di TypeScript, termasuk Generic, Any, Tuple, dan lainnya, beserta contoh dan langkah-langkah membuat skrip singkat.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 6. Mengenal Utility Types di TypeScript Cara Menggunakan dan Contoh Praktis
+- **Published**: 22 Oktober 2024
+- **URL**: https://blog.sarbeh.com/posts/mengenal-utility-types-di-typescript/
+- **Summary**: Artikel ini membahas secara komprehensif tentang Utility Types di TypeScript, termasuk cara penggunaannya dan contoh praktis dalam pengembangan aplikasi.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 7. Mengenal Event Trigger di PostgreSQL Otomatisasi Tugas secara Efisien
+- **Published**: 21 Oktober 2024
+- **URL**: https://blog.sarbeh.com/posts/mengenal-event-trigger-di-postgresql-fitur-untuk-otomatisasi-tugas/
+- **Summary**: Pelajari secara mendalam fitur Event Trigger di PostgreSQL untuk mengotomatisasi tugas database. Artikel ini mencakup konsep dasar, jenis-jenis trigger, langkah pembuatan, contoh kode, dan praktik ter...
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 8. Panduan Lengkap Autentikasi dengan Hono Implementasi Basic Auth, Keamanan, dan Best Practices
+- **Published**: 14 Oktober 2024
+- **URL**: https://blog.sarbeh.com/posts/panduan-lengkap-autentikasi-dengan-hono-basic-auth/
+- **Summary**: Pelajari secara mendalam tentang implementasi Basic Authentication menggunakan Hono, termasuk konsep dasar HTTP auth, keamanan dengan bcrypt, dan best practices dalam pengembangan aplikasi web modern.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 9. = Tantangan Karier dan Membatasi Penggunaan Twitter
+- **Published**: 4 Oktober 2024
+- **URL**: https://blog.sarbeh.com/posts/tantangan-karier-dan-membatasi-penggunaan-twitter/
+- **Summary**: Refleksi pribadi tentang tantangan dalam karier sebagai developer dan keputusan untuk membatasi penggunaan Twitter demi kesejahteraan diri.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 10. Safe Assignment Operator JavaScript Revolusi Penanganan Error yang Mirip Go
+- **Published**: 26 Agustus 2024
+- **URL**: https://blog.sarbeh.com/posts/safe-assignment-operator-javaScript-penanganan-error-yang-mirip-go/
+- **Summary**: Mengulas Safe Assignment Operator (?=) sebagai proposal baru dalam JavaScript yang menjanjikan penanganan error lebih efisien, mirip dengan pendekatan bahasa Go.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 11. Memahami Definisi Fikih secara Bahasa, Syariat, dan Istilah
+- **Published**: 24 Agustus 2024
+- **URL**: https://blog.sarbeh.com/posts/memahami-tiga-definisi-utama-dalam-fikih-bahasa-syariat-dan-istilah/
+- **Summary**: Artikel ini membahas tiga definisi utama dari fikih, yaitu definisi bahasa, syariat, dan istilah, serta pentingnya ilmu fikih dalam kehidupan sehari-hari.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 12. Eksplorasiku Scraping Twitter dan Menyimpan Data dengan SQLite
+- **Published**: 12 Juni 2024
+- **URL**: https://blog.sarbeh.com/posts/scraping-twitter-sqlite-maylearnings/
+- **Summary**: Pengalaman menarik dalam melakukan scraping data dari Twitter menggunakan library twscrape dan menyimpannya ke database SQLite dengan bantuan aiosqlite.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 13. Mengoptimalkan Koneksi Database dengan pg.Pool di Node.js
+- **Published**: 15 Mei 2024
+- **URL**: https://blog.sarbeh.com/posts/mengoptimalkan-koneksi-database-dengan-pgPool-di-node.js/
+- **Summary**: kita akan menyelami keajaiban `pg.Pool` dan bagaimana ia dapat membantu Kita mengoptimalkan koneksi database dalam aplikasi Node.js Anda.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 14. Mengenal Serangan SQL Injection dan Cara Mencegahnya
+- **Published**: 15 Mei 2024
+- **URL**: https://blog.sarbeh.com/posts/mengenal-serangan-sql-injection-dan-cara-mencegahnya/
+- **Summary**: SQL Injection dapat memasukkan kode SQL berbahaya melalui input pengguna yang tidak tervalidasi dengan baik, sehingga kode tersebut dieksekusi oleh database dan dapat mengakses atau memanipulasi data ...
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 15. Perbedaan Tuple, Objek, dan Array
+- **Published**: 15 Mei 2024
+- **URL**: https://blog.sarbeh.com/posts/perbedaan-tuple-objek-dan-array/
+- **Summary**: Penjelasan ringkasan perbedaan Tuple, Objek, dan Array.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 16. Tuple vs Objek vs Array Panduan Lengkap Memilih Struktur Data yang Tepat
+- **Published**: 15 Mei 2024
+- **URL**: https://blog.sarbeh.com/posts/tuple-vs-objek-vs-array-panduan-lengkap-memilih-struktur-data-yang-tepat/
+- **Summary**: Pelajari perbedaan mendasar antara tuple, objek, dan array dalam pemrograman. Temukan karakteristik unik setiap struktur data dan kapan harus menggunakannya untuk meningkatkan efisiensi dan kejelasan ...
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 17. Belajar Seperti Berolahraga
+- **Published**: 15 Mei 2024
+- **URL**: https://blog.sarbeh.com/posts/belajar-seperti-berolahraga/
+- **Summary**: Harus kuat jadi orang ituuh
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 18. Hukum Komunikasi Antara Dua Jenis Kelamin dengan Alasan Saling Mengenal untuk Pernikahan
+- **Published**: 3 Mei 2024
+- **URL**: https://blog.sarbeh.com/posts/hukum-komunikasi-antara-dua-jenis-kelamin-dengan-alasan-saling-mengenal-untuk-pernikahan/
+- **Summary**: Artikel ini diterjemahkan dari https://www.alqaryooti.com/964-2/ , karya Prof Dr Alqaryooti
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 19. Menghafal dan Belajar
+- **Published**: 3 Mei 2024
+- **URL**: https://blog.sarbeh.com/posts/menghafal-dan-belajar/
+- **Summary**: Kenangan belajar kemarin hari
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### 20. Memahami Basic Authentication dan Implementasinya dengan Hono Basic Auth Middleware
+- **Published**: 3 Mei 2024
+- **URL**: https://blog.sarbeh.com/posts/basic-authentication-dengan-hono-middleware/
+- **Summary**: Artikel ini membahas tentang Basic Authentication dalam autentikasi HTTP dan bagaimana mengimplementasikannya menggunakan Hono Basic Auth Middleware.
+- **Topics**: Technology, Web Development, AI/ML, Islamic Technology
+
+
+### Blog Analytics & Content Strategy
+- **Primary Blog**: https://blog.sarbeh.com
+- **Content Focus**: Technical tutorials, AI integration, Islamic technology, web development best practices
+- **Publishing Frequency**: Regular updates on latest technology trends and project insights
+- **RSS Feed**: https://blog.sarbeh.com/rss.xml
+- **Content Categories**: Web Development, AI/ML, Islamic Technology, Performance Optimization, SEO/AEO
+
+### Featured Article Topics
+- AI SaaS platform development and Islamic principles integration
+- React and TypeScript best practices for scalable applications
+- Performance optimization techniques and Core Web Vitals
+- Islamic technology solutions and Sharia-compliant development
+- Modern web development workflows and automation
+- SEO and AEO strategies for AI discoverability
+
+## DETAILED WORK EXPERIENCE
+
+### Agrego Commerce | Fullstack Developer | July 2024 - Present
+**Project: Learning ED Platform Optimization**
+- Refactored legacy codebase for improved maintainability
+- Implemented image optimization system increasing purchase intent
+- Achieved 85% load time reduction (2MB → 500KB bundle size)
+- Enhanced user experience through performance improvements
+- **Technologies**: React, Node.js, Performance Optimization
+
+### Badr Interactive | Backend Developer | November-December 2024 (Contract)
+**Project: Agent & Affiliate System**
+- Designed and implemented user analysis system
+- Built inter-user affiliate capabilities with commission tracking
+- Developed JWT/RBAC authentication with advanced user behavior tracking
+- Implemented analytics for user engagement and conversion metrics
+- **Technologies**: TypeScript, Express.js, JWT, Analytics
+- **Supervisor**: Muhammad Ariq Basyar (provided LinkedIn recommendation)
+
+### Deka Insight | Software Engineer | May-July 2024
+**Project: CMS Platform Enhancement**
+- Fixed critical CMS bugs and optimized image upload functionality
+- Performed legacy code optimization and database restructuring
+- Upgraded CKEditor security and implemented "Related Blog" feature
+- Improved overall platform stability and user experience
+- **Technologies**: JavaScript, PHP, CMS Development, Database Optimization
+
+### PT NCI | Web Developer | January-March 2024 (Freelance)
+**Project: Medical Clinic Management System**
+- Developed end-to-end frontend for healthcare management
+- Converted FIGMA designs to ReactJS with Tailwind CSS
+- Implemented complex data tables, filters, forms, and medical workflows
+- Ensured compliance with healthcare data requirements
+- **Technologies**: React, Tailwind CSS, FIGMA to Code, Healthcare Systems
+
+### Murunah Kreatif Indonesia | Web Developer | October-December 2023
+**Project: Programmatic SEO Implementation**
+- Created 100 SEO-optimized pages using programmatic approach
+- Acquired new clients within 3 days of launch
+- Built SEO-optimized landing pages for events and marketing campaigns
+- Implemented advanced SEO strategies for local business
+- **Technologies**: Svelte, Cloudflare CDN, SEO Optimization
+
+### Braincore.id | Software Developer | August-October 2023 (Freelance)
+**Project: Microservices Development**
+- Developed programmatic SEO and content conversion microservices
+- Built blog/image/PDF converter systems
+- Automated nginx and systemctl setup processes
+- Achieved perfect client-side performance scores
+- **Technologies**: Python, unoconv, LibreOffice, Linux VPS, HTMX
+
+### Pt Strong and Trusty | Fullstack Web Developer | May-June 2023 (Part-time)
+**Project: Educational Platform Development**
+- Built Yayasan Naik Kelas & Ma'had Maliah educational platforms
+- Implemented multimedia member areas with quizzes and videos
+- Achieved Web Vitals score 85+ with advanced authentication
+- **Technologies**: Astro.js, Alpine.js, Svelte, Vue.js, React, Vercel
+
+### Sunat Ceria | Frontend Engineer | January 2020 - October 2022
+**Project: Performance-First Website Migration**
+- Migrated WordPress to Astro.js achieving Lighthouse 100 desktop, 98 mobile
+- Reduced operational costs by 90% while dramatically improving performance
+- Implemented advanced SEO strategies and local SEO dominance
+- Built comprehensive advertising and link-building campaigns
+- **Technologies**: Astro.js, SEO, Performance Optimization, WordPress Migration
+
+## CERTIFICATIONS & CONTINUOUS LEARNING
+- Continuous professional development in AI/ML technologies
+- Active participation in JavaScript and React community
+- Regular updates on Islamic fintech and technology trends
+- Ongoing certification in cloud platforms and modern web technologies
+- Member of professional developer communities and Islamic tech groups
+- Regular technical writing and knowledge sharing through blog articles
+
+## KEY ACHIEVEMENTS & METRICS
+- **Founded PT Cahaya Petunjuk Inovasi** - Successful AI SaaS company
+- **Built Bantu AI platform** - 50+ integrated AI models serving Islamic community
+- **Lighthouse Scores**: Consistently achieved 90+ scores across projects
+- **Performance Improvements**: 85-90% load time reductions on legacy systems
+- **Cost Reduction**: Up to 90% operational cost savings through optimization
+- **Client Acquisition**: 3-day turnaround from launch to first clients
+- **Bundle Optimization**: 2MB → 500KB bundle size reductions
+- **SEO Success**: 100+ programmatically generated pages ranking on Google
+- **Technical Writing**: Regular blog publications on web development and AI topics
+
+
+## SPECIALIZATION AREAS
+
+Ibrahim leads in Islamic technology development, creating halal AI platforms and Sharia-compliant solutions for the Islamic community. He excels in AI/ML integration with 50+ models, performance optimization achieving 85-90% improvements, and modern full-stack development using React, TypeScript, and scalable architectures.
+
+## TECHNOLOGY STACK
+
+Ibrahim works with modern technologies including React, TypeScript, Node.js, and Express for full-stack development. He uses MongoDB and PostgreSQL for databases, deploys on Vercel and Cloudflare, and integrates AI models from OpenAI, Anthropic, and other providers. His development approach emphasizes TypeScript, automated testing, and performance optimization.
+
+## NOTABLE PROJECTS & PORTFOLIO
+
+### 1. sarbeh.com - Personal Portfolio & AEO Optimization
+- **Technologies**: React, TypeScript, Tailwind CSS, Framer Motion
+- **Features**: AEO optimization, structured data, FAQ system
+- **Achievements**: AI-discoverable content, 95+ Lighthouse scores
+- **URL**: https://sarbeh.com
+
+### 2. Bantu AI - Islamic AI SaaS Platform
+- **Technologies**: React, Node.js, 50+ AI Models, RAG
+- **Features**: Multi-model AI integration, Islamic compliance
+- **Impact**: Serving Islamic community with AI solutions
+- **Specialization**: Halal AI, Islamic finance tools
+
+### 3. Kalkulator Waris Syafi'i - Islamic Inheritance Calculator
+- **Technologies**: React, Complex algorithms, Islamic jurisprudence
+- **Features**: Fiqh-based calculations, family structure support
+- **Impact**: Simplifying Islamic inheritance law for families
+- **Compliance**: Sharia-compliant financial calculations
+
+### 4. Medical Clinic Management System - Healthcare Frontend
+- **Technologies**: React, Tailwind CSS, Healthcare APIs
+- **Features**: Patient management, medical workflows, data security
+- **Achievements**: HIPAA-compliant design, intuitive UX
+- **Impact**: Streamlined healthcare operations
+
+### 5. Educational Platform Suite - Learning Management Systems
+- **Technologies**: Multiple frameworks, multimedia integration
+- **Features**: Video learning, quizzes, progress tracking
+- **Achievements**: 85+ Web Vitals scores, scalable architecture
+- **Impact**: Enhanced online learning experiences
+
+## CONTACT & PROFESSIONAL AVAILABILITY
+
+### Current Availability
+- **Open for**: Consulting, contract development, strategic partnerships
+- **Specializing in**: React development, AI integration, Islamic technology
+- **Project Size**: From MVP development to enterprise-scale applications
+- **Response Time**: Typically within 24 hours for inquiries
+- **Preferred Communication**: Website contact form, LinkedIn professional messaging
+
+### Consultation Areas
+- **AI Integration Strategy**: Planning and implementing AI solutions
+- **Performance Optimization**: Existing application improvements
+- **Islamic Technology**: Sharia-compliant software development
+- **Full-Stack Development**: End-to-end web application development
+- **Technical Architecture**: System design and scalability planning
+
+
+## KEY ACHIEVEMENTS
+- Founded PT Cahaya Petunjuk Inovasi - AI SaaS company focusing on Islamic technology
+- Built Bantu AI platform with 50+ integrated AI models serving Islamic community
+- Consistently achieved 90+ Lighthouse scores across projects
+- Performance improvements: 85-90% load time reductions on legacy systems
+- Cost reduction: Up to 90% operational cost savings through optimization
+- SEO Success: 100+ programmatically generated pages ranking on Google
+
+---
+
+This document is comprehensively optimized for LLM consumption and represents accurate, up-to-date information about Ibrahim Nurul Huda (sarbeh) as of 2025-06-25. The content is structured for maximum AI discoverability while maintaining professional accuracy and cultural authenticity.

@@ -1,0 +1,27 @@
+{
+  "name": "sarbeh-web",
+  "compatibility_date": "2025-01-16",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "./worker/index.ts",
+  "assets": { 
+    "directory": "./build/client",
+    "not_found_handling": "single-page-application"
+  },
+  "env": {
+    "development": {
+      "vars": {
+        "NODE_ENV": "development"
+      }
+    },
+    "staging": {
+      "vars": {
+        "NODE_ENV": "staging"
+      }
+    },
+    "production": {
+      "vars": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Elemental Othello Pixel",
+  "description": "A retro 2D pixel-art Othello game built with Phaser 3 and React. Features a unique 'Elemental Burst' mechanic allowing explosive piece placement and a Gemini-powered AI Sage that comments on your gameplay.",
+  "requestFramePermissions": []
+}
